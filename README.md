@@ -15,7 +15,7 @@ Welcome to my repository of projects from my journey at the German University in
 
 | **Course**       | **Project Name** | **Year** | **Project Link**      | **Contributors**       |
 |-------------------|------------------|----------|-----------------------|-------------------------|
-| CSEN401 - Game    | AOT-Utopia  | 2024     | [🔗 View Project](#)  | [@rogerelias](https://github.com/rogerelias),[@monicamina](https://github.com/Mmonica00) |
+| CSEN401 - Game    | AOT-Utopia  | 2024     | [🔗 View Project](#https://github.com/rogereliass/AOT-Utopia)  | [@rogerelias](https://github.com/rogerelias),[@monicamina](https://github.com/Mmonica00) |
 
 ---
 
