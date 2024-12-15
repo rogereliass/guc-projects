@@ -36,9 +36,9 @@ Welcome to my repository of projects from my journey at the German University in
 
 | **Course**       | **Project Name** | **Year** | **Project Link**      | **Contributors**                  |
 |-------------------|------------------|----------|-----------------------|------------------------------------|
-| CSEN501 - Database 1   | Telecom Service Website  | 2024     | [🔗 View Project](#)  | [@rogerelias](https://github.com/rogerelias),  |
-| CSEN503 - Computer Networks   | Travel Website  | 2024     | [🔗 View Project](#)  | [@rogerelias](https://github.com/rogerelias),  |
-| CSEN605 - Digital System Design   | Walking Stick  | 2024     | [🔗 View Project](#)  | [@rogerelias](https://github.com/rogerelias),  |
+| CSEN501 - Database 1   | Telecom Service Website  | 2024     | [🔗 View Project](https://github.com/rogereliass/Telecom-Customer-Data-Management-System)  | [@rogerelias](https://github.com/rogerelias), [@monicamina](https://github.com/Mmonica00), [@sarahfanous](https://github.com/sarahfanous), [@rodainaelsawy](https://github.com/rodainaelsawy) |
+| CSEN503 - Computer Networks   | Travel Website  | 2024     | [🔗 View Project](https://github.com/rogereliass/Travel-Destinations-Website)  | [@rogerelias](https://github.com/rogerelias), [@danielsamer](https://github.com/DanielSamer), [@marcghattas](https://github.com/marcghattas), [@nourafady](https://github.com/NouraFady) |
+| CSEN605 - Digital System Design   | Walking Stick  | 2024     | [🔗 View Project](#)  | [@rogerelias](https://github.com/rogerelias),[@sarahfanous](https://github.com/sarahfanous), [@danielsamer](https://github.com/DanielSamer) |
 
 ---
 
