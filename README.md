@@ -6,8 +6,9 @@ Welcome to my repository of projects from my journey at the German University in
 
 ## 📑 **Table of Contents**  
 
-- [Semester 4](#semester-4-📘)  
-- [Semester 5](#semester-5-📗)  
+- [Semester 4](#semester-4-)  
+- [Semester 5](#semester-5-)
+- [Semester 6](#semester-6-)
 
 ---
 ## **💡 How to Navigate**  
@@ -32,7 +33,7 @@ Welcome to my repository of projects from my journey at the German University in
 
 ---
 
-## **Semester 5** 📗  
+## **Semester 5** 📗
 
 | **Course**       | **Project Name** | **Year** | **Project Link**      | **Contributors**                  |
 |-------------------|------------------|----------|-----------------------|------------------------------------|
@@ -42,5 +43,13 @@ Welcome to my repository of projects from my journey at the German University in
 
 ---
 
+## **Semester 6** 📕  
+
+| **Course**       | **Project Name** | **Year** | **Project Link**      | **Contributors**                  |
+|-------------------|------------------|----------|-----------------------|------------------------------------|
+| CSEN601 - Computer Architecture   | Harvard Architecture CPU Simulator  | 2025     | [🔗 View Project](https://github.com/rogereliass/computer-architecture)  | [@rogerelias](https://github.com/rogerelias), [@monicamina](https://github.com/Mmonica00), [@sarahfanous](https://github.com/sarahfanous), [@rodainaelsawy](https://github.com/rodainaelsawy), [@markkmagedd](https://github.com/markkmagedd) |
+| CSEN602 - Operating Systems   | Basic Operating System  | 2025     | [🔗 View Project](https://github.com/rogereliass/Operating-Systems)  | [@rogerelias](https://github.com/rogerelias), [@monicamina](https://github.com/Mmonica00), [@sarahfanous](https://github.com/sarahfanous), [@rodainaelsawy](https://github.com/rodainaelsawy), [@markkmagedd](https://github.com/markkmagedd) |
+| CSEN603 - Software Engineering   | SCAD Internship System  | 2025     | [🔗 View Project](https://github.com/rogereliass/SCAD-Internship-System)  | [@rogerelias](https://github.com/rogerelias), [@AliAbuelkheir](https://github.com/AliAbuelkheir), [@monicamina](https://github.com/Mmonica00), [@rodainaelsawy](https://github.com/rodainaelsawy)  |
+| CSEN604 - Database 2   | Database Engine  | 2025     | [🔗 View Project](https://github.com/rogereliass/DBMS-simulation)  | [@rogerelias](https://github.com/rogerelias)|
 
 
